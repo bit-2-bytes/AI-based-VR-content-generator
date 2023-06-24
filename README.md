@@ -13,7 +13,7 @@
 
 <p align="center"> 
     <br />&#10023;
-    <a href="">Demo Video</a>   &#10023;
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7078364890863697920/">Demo Video</a>   &#10023;
     <a href="#Quick-Start">Quick Start</a>   &#10023;    
     <a href="https://github.com/bit-2-bytes/AI-based-VR-content-generator/issues">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
