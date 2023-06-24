@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
     <img src="https://img.shields.io/badge/Open.ai-blue?style=for-the-badge&logo=openai&logoColor=white" alt="OPEN AI" />
-    <img src="https://img.shields.io/badge/aframe.js-pink?style=for-the-badge&logo=nodedotjs&logoColor=blue" alt="A-frame" />
+    <img src="https://img.shields.io/badge/aframe.js-pink?style=for-the-badge&logo=aframe&logoColor=blue" alt="A-frame" />
 </p>
 
 <p align="center"> 
